@@ -1,4 +1,4 @@
-# Mlops-ninja Tap
+# MLOps.Ninja Tap
 
 ## How do I install these formulae?
 
